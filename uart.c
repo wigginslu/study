@@ -3,5 +3,5 @@ int main()
 {
   printf("dev pull quests"); 
   printf("dev pull quests");   
-  return 0;
+  return 10;
 }
